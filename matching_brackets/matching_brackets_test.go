@@ -1,4 +1,4 @@
-package brackets
+package matching_brackets
 
 import (
 	"testing"

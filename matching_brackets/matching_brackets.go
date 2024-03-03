@@ -1,4 +1,4 @@
-package brackets
+package matching_brackets
 
 // bracketType sorts characters into either opening, closing, or not a bracket
 type bracketType int
